@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![ChatNexus App](screen shots/chatnexus mobile app.png)
+![ChatNexus App](screenshots/chatnexusmobileapp.png)
 
 Supercharge your creativity and productivity with ChatNexus - Your AI-powered chat companion! 🚀
 
